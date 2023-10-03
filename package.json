@@ -1,5 +1,6 @@
 {
   "name": "@meowapp/helloworld",
+  "homepage": "https://meowship.vn/",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,6 +8,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "description": ""
+  "license": "MIT",
+  "description": "A simple npm package that exposes a `helloworld` function, which, when called, prints \"Xin Chào Thế Giới\" to the console.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meowapps/helloworld"
+},
 }

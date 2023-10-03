@@ -1,6 +1,6 @@
 # Meowapp says Hello  
 
-A simple npm package that exposes a `helloworld` function, which, when called, prints "helloworld" to the console.
+A simple npm package that exposes a `helloworld` function, which, when called, prints "Xin Chào Thế Giới" to the console.
 
 ## Installation
 
